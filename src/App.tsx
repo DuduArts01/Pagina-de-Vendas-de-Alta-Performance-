@@ -1,4 +1,3 @@
-import React from 'react';
 import Button from './components/Button';
 import Hero from './sections/Hero';
 import Pricing from './sections/Pricing';
