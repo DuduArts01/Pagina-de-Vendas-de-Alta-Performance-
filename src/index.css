@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-bg: #080C10;
+  --color-dark-surface: #0D1117;
+  --color-dark-border: rgba(255, 255, 255, 0.08);
+  --color-emerald-neon: #10B981;
+  --color-gold-neon: #F59E0B;
+}
+
+/* O resto do seu CSS aqui embaixo */
+body {
+  background-color: var(--color-dark-bg);
+  color: #F1F5F9;
+  margin: 0;
+}
